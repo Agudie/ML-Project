@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+raw_hospital_data.csv
+cleaned_research_data.csv
+data_quality_report.png
